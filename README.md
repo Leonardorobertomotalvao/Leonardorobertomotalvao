@@ -2,8 +2,8 @@
 
 ###  Desenvolvedor de Sistemas | Web • Automação • QA
 
-🎓 Estudante de **Desenvolvimento de Sistemas**  
-🌐 Desenvolvimento Web com **TypeScript, Next.js e React**  
+ Estudante de **Desenvolvimento de Sistemas**  
+ Desenvolvimento Web com **TypeScript, Next.js e React**  
  Automação e ferramentas para Windows com **PowerShell**  
  Interesse em **QA, testes de software e identificação de bugs**  
 Entusiasta de tecnologia, hardware e desenvolvimento de jogos  
@@ -24,7 +24,7 @@ projetos próprios e Open Source.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,7 +37,7 @@ projetos próprios e Open Source.
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 ### 🛡️ SSD System Guard
 
