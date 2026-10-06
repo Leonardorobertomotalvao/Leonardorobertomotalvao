@@ -1,16 +1,16 @@
 # 👋 Olá, eu sou o Leonardo Roberto
 
-### 💻 Desenvolvedor de Sistemas | Web • Automação • QA
+###  Desenvolvedor de Sistemas | Web • Automação • QA
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
 🌐 Desenvolvimento Web com **TypeScript, Next.js e React**  
-⚙️ Automação e ferramentas para Windows com **PowerShell**  
-🧪 Interesse em **QA, testes de software e identificação de bugs**  
-🎮 Entusiasta de tecnologia, hardware e desenvolvimento de jogos  
+ Automação e ferramentas para Windows com **PowerShell**  
+ Interesse em **QA, testes de software e identificação de bugs**  
+Entusiasta de tecnologia, hardware e desenvolvimento de jogos  
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou estudante de Desenvolvimento de Sistemas e gosto de transformar
 problemas reais em projetos e ferramentas funcionais.
@@ -69,13 +69,13 @@ Também tenho interesse em testes de software e jogos.
 
 Durante meus testes procuro identificar:
 
-- 🐛 Bugs
-- ⚡ Problemas de desempenho
-- 🎮 Problemas de gameplay
-- 🧱 Falhas de colisão
-- 🖥️ Problemas de interface
-- 👤 Problemas de experiência do usuário
-- 📋 Falta de tutoriais ou informações
+-  Bugs
+- Problemas de desempenho
+-  Problemas de gameplay
+- Falhas de colisão
+- Problemas de interface
+- Problemas de experiência do usuário
+- Falta de tutoriais ou informações
 
 Meu objetivo é produzir feedback claro e útil para desenvolvedores.
 
@@ -93,4 +93,4 @@ Meu objetivo é produzir feedback claro e útil para desenvolvedores.
 
 ---
 
-### 🚀 Sempre desenvolvendo, testando e aprendendo algo novo.
+### Sempre desenvolvendo, testando e aprendendo algo novo.
