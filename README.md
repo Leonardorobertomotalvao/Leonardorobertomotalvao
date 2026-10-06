@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leonardo Roberto
 
-<!--
-**Leonardorobertomotalvao/Leonardorobertomotalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas  
+ Desenvolvedor focado em Web, PowerShell e automação  
+ Interessado em QA, testes de software e identificação de bugs  
+ Entusiasta de games, hardware e tecnologia  
 
-Here are some ideas to get you started:
+##  Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript
+- JavaScript
+- Next.js
+- React
+- Tailwind CSS
+- PowerShell
+- PostgreSQL
+- Prisma
+- Git & GitHub
