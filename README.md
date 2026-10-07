@@ -1,96 +1,102 @@
-# 👋 Olá, eu sou o Leonardo Roberto
+# Leonardo Roberto
 
-###  Desenvolvedor de Sistemas | Web • Automação • QA
+Desenvolvedor de Sistemas com interesse em desenvolvimento web, automação para Windows e qualidade de software. Também venho construindo experiência prática com testes de jogos, análise de bugs e feedback técnico para desenvolvedores.
 
- Estudante de **Desenvolvimento de Sistemas**  
- Desenvolvimento Web com **TypeScript, Next.js e React**  
- Automação e ferramentas para Windows com **PowerShell**  
- Interesse em **QA, testes de software e identificação de bugs**  
-Entusiasta de tecnologia, hardware e desenvolvimento de jogos  
+Atualmente estudo Desenvolvimento de Sistemas e mantenho projetos próprios voltados a software, automação e ferramentas para Windows.
 
----
+## Sobre mim
 
-##  Sobre mim
+Tenho experiência prática com desenvolvimento web, bancos de dados, autenticação, automações em PowerShell, troubleshooting e testes de software.
 
-Sou estudante de Desenvolvimento de Sistemas e gosto de transformar
-problemas reais em projetos e ferramentas funcionais.
+Nos últimos projetos, passei a direcionar parte do meu portfólio para Game QA, com foco em identificar problemas que afetem estabilidade, desempenho, jogabilidade e experiência do usuário.
 
-Tenho experiência prática com desenvolvimento web, bancos de dados,
-autenticação, automações para Windows, troubleshooting e testes
-de softwares e jogos.
+Meu objetivo é continuar evoluindo como desenvolvedor e, ao mesmo tempo, adquirir experiência consistente em QA e testes de jogos.
 
-Atualmente estou ampliando meus conhecimentos e desenvolvendo
-projetos próprios e Open Source.
+## Game Testing e QA
 
----
+Durante os testes, observo principalmente:
 
-##  Tecnologias
+- bugs e comportamentos inesperados;
+- quedas de FPS, stuttering e problemas de desempenho;
+- crashes e falhas de estabilidade;
+- colisões e acesso indevido a áreas do cenário;
+- controles, interface e usabilidade;
+- clareza de objetivos, progressão e tutoriais;
+- problemas que afetem a experiência geral do jogador.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Quando encontro um problema, procuro documentá-lo com uma descrição objetiva, passos para reprodução, comportamento esperado, comportamento observado, impacto para o jogador e evidências quando disponíveis.
 
----
+Tenho maior interesse em projetos indie, horror, survival, jogos narrativos, builds Alpha/Beta e Early Access.
 
-##  Projetos em destaque
+### Ambiente de testes
 
-### 🛡️ SSD System Guard
+- CPU: AMD Ryzen 5 5500
+- GPU: NVIDIA GeForce RTX 5060 8 GB
+- RAM: 16 GB DDR4 3200 MHz
+- Resoluções de teste: 1080p e 1440p
+- Sistema operacional: Windows
 
-Ferramenta para Windows desenvolvida em **PowerShell** para ajudar
-a proteger o SSD do sistema.
+Perfil de Game Tester no itch.io:  
+https://leonardorobertoqa.itch.io
 
-Principais recursos:
+## Tecnologias
 
-- Monitoramento de downloads
-- Detecção de jogos portáteis
-- Alertas para aplicativos desconhecidos
-- Inicialização opcional com o Windows
-- Ferramentas de instalação e desinstalação
-
-###  Na Minha Época
-
-Portal desenvolvido com:
-
-`Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma`
-
-Projeto focado em brincadeiras tradicionais e interação entre usuários,
-incluindo autenticação e recursos de comunidade.
-
----
-
-##  QA & Software Testing
-
-Também tenho interesse em testes de software e jogos.
-
-Durante meus testes procuro identificar:
-
--  Bugs
-- Problemas de desempenho
--  Problemas de gameplay
-- Falhas de colisão
-- Problemas de interface
-- Problemas de experiência do usuário
-- Falta de tutoriais ou informações
-
-Meu objetivo é produzir feedback claro e útil para desenvolvedores.
-
----
-
-##  Atualmente estudando
-
-- Desenvolvimento Web
 - TypeScript
+- JavaScript
 - Next.js
-- Bancos de dados
-- Automação
-- QA e testes de software
-- Git & GitHub
+- React
+- Tailwind CSS
+- PowerShell
+- C#
+- .NET
+- PostgreSQL
+- Git e GitHub
+- Windows
 
----
+## Projetos
 
-### Sempre desenvolvendo, testando e aprendendo algo novo.
+### SSD System Guard
+
+Ferramenta para Windows criada para ajudar no controle de downloads e instalações no SSD do sistema.
+
+O projeto inclui monitoramento de downloads, integração com Steam e Epic Games, alertas para aplicativos desconhecidos, inicialização opcional com o Windows, instalador, desinstalador e integração com PowerShell.
+
+Tecnologias principais: C#, .NET, Windows Forms e PowerShell.
+
+Repositório:  
+https://github.com/Leonardorobertomotalvao/ssd-system-guard
+
+### Na Minha Época
+
+Projeto web desenvolvido com Next.js, TypeScript, Tailwind CSS, PostgreSQL e Prisma.
+
+A aplicação foi criada como um portal voltado a brincadeiras tradicionais e interação entre usuários, incluindo autenticação e recursos de comunidade.
+
+Repositório:  
+https://github.com/Leonardorobertomotalvao/na-quele-epoca
+
+## Portfólio de Game Testing
+
+Estou organizando um portfólio separado para registrar testes de jogos e relatórios de QA.
+
+Esse material será usado para documentar bugs encontrados, testes de desempenho, problemas de colisão, observações de gameplay, análise de usabilidade e evidências coletadas durante playtests.
+
+A proposta é manter relatórios claros e objetivos, úteis tanto como histórico de testes quanto como material de portfólio profissional.
+
+## Em desenvolvimento
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- desenvolvimento web;
+- TypeScript e Next.js;
+- bancos de dados;
+- automação para Windows;
+- QA e testes de software;
+- Game Testing;
+- documentação de bugs;
+- Git e GitHub.
+
+## Objetivos
+
+Busco oportunidades para continuar desenvolvendo projetos próprios, colaborar com projetos Open Source e participar de playtests, testes Alpha/Beta e processos de QA, especialmente em jogos independentes.
+
