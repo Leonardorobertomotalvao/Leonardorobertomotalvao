@@ -103,3 +103,4 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 Busco oportunidades para continuar desenvolvendo projetos próprios, colaborar com projetos Open Source e participar de playtests, testes Alpha/Beta e processos de QA, especialmente em jogos independentes.
 
+
